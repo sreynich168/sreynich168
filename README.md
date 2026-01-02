@@ -1,4 +1,4 @@
-# Hi there, I'm Sren 👋
+# Hi there, I'm Nick👋
 
 Welcome to my GitHub profile!
 
@@ -31,16 +31,13 @@ Welcome to my GitHub profile!
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sreynich168&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sreynich168&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sreynich168&show_icons=true&theme=tokyonight)
 
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sreynich168&layout=compact&theme=tokyonight)
+
 
 ## 📫 Connect with Me
 
-- 📧 your.email@example.com
-- 🌐 linkedin.com/in/your-linkedin
+- 📧 srensreynich122@gmail.com
+- 🌐 https://www.linkedin.com/in/sren-sreynich-0a067a323/
+  
